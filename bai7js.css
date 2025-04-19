@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+  }
+  table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+  td {
+    padding: 5px;
+  }
+  fieldset {
+    margin-bottom: 15px;
+  }
